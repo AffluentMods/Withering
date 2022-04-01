@@ -9,11 +9,11 @@ import java.util.Random;
 public class Constants {
 
     public static final String PREFIX = "w.";
-    public static final String main_guild = "888858645029322763";
+    public static final String main_guild = "888858645029322763"; //the main/official discord server
     public static final String TAB = "\u2004\u2004\u2004\u2004";
-    public static final String dbl_vote_auth = "gDe*&30C$%CBr9";
-    public static final String dbl_botid = "887850655862112268";
-    public static final String dbl_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg4Nzg1MDY1NTg2MjExMjI2OCIsImJvdCI6dHJ1ZSwiaWF0IjoxNjQ3ODA2NTkyfQ.J_yuek5pIUZwVuJyhW3gwaRhOSG_UrXzzFSecWuK8tU";
+    public static final String dbl_vote_auth = "121212121212"; //Vote authorization code
+    public static final String dbl_botid = "1212121212"; //Your bot ID
+    public static final String dbl_token = "212121212121"; //DBL token
 
     public static MessageEmbed PROFILE_404(String userId) {
         return MessageUtil.err(UNKNOWN(userId), Language.getLocalized(userId, "no_profile",
