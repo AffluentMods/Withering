@@ -1,0 +1,646 @@
+me/affluent/decay/attribute/DamageAttribute.java
+ me.affluent.decay.attribute.DamageAttribute
+me/affluent/decay/command/information/DonateCommand.java
+ me.affluent.decay.command.information.DonateCommand
+me/affluent/decay/util/Prizeable.java
+ me.affluent.decay.util.Prizeable
+me/affluent/decay/achievements/Achievements.java
+ me.affluent.decay.achievements.Achievements
+me/affluent/decay/manager/EventManager.java
+ me.affluent.decay.manager.EventManager
+me/affluent/decay/event/TavernSpinEvent.java
+ me.affluent.decay.event.TavernSpinEvent
+me/affluent/decay/command/information/ProfileCommand.java
+ me.affluent.decay.command.information.ProfileCommand
+me/affluent/decay/util/WitherScrollsUtil.java
+ me.affluent.decay.util.WitherScrollsUtil
+me/affluent/decay/util/BarUtil.java
+ me.affluent.decay.util.BarUtil
+me/affluent/decay/pets/PetExpUser.java
+ me.affluent.decay.pets.PetExpUser
+me/affluent/decay/event/ChestOpenEvent.java
+ me.affluent.decay.event.ChestOpenEvent
+me/affluent/decay/entity/otherInventory/ArmorDragonUser.java
+ me.affluent.decay.entity.otherInventory.ArmorDragonUser
+me/affluent/decay/trade/TradeAPI.java
+ me.affluent.decay.trade.TradeAPI
+ me.affluent.decay.trade.TradeAPI$1
+ me.affluent.decay.trade.TradeAPI$2
+me/affluent/decay/entity/otherInventory/ArmorWitherUser.java
+ me.affluent.decay.entity.otherInventory.ArmorWitherUser
+me/affluent/decay/util/system/LoadUtil.java
+ me.affluent.decay.util.system.LoadUtil
+ me.affluent.decay.util.system.LoadUtil$1
+me/affluent/decay/entity/PetUser.java
+ me.affluent.decay.entity.PetUser
+me/affluent/decay/trade/Trade.java
+ me.affluent.decay.trade.Trade
+me/affluent/decay/armor/iron/ArmorIronSet.java
+ me.affluent.decay.armor.iron.ArmorIronSet
+me/affluent/decay/gems/ProtectionGem.java
+ me.affluent.decay.gems.ProtectionGem
+me/affluent/decay/specialevent/SpecialEvent.java
+ me.affluent.decay.specialevent.SpecialEvent
+ me.affluent.decay.specialevent.SpecialEvent$1
+me/affluent/decay/command/information/TopCommand.java
+ me.affluent.decay.command.information.TopCommand
+me/affluent/decay/shop/Price.java
+ me.affluent.decay.shop.Price
+ me.affluent.decay.shop.Price$PriceType
+me/affluent/decay/entity/PrefixUser.java
+ me.affluent.decay.entity.PrefixUser
+me/affluent/decay/achievements/BrawlerAchievement.java
+ me.affluent.decay.achievements.BrawlerAchievement
+me/affluent/decay/superclass/ShardTask.java
+ me.affluent.decay.superclass.ShardTask
+me/affluent/decay/command/information/CompareCommand.java
+ me.affluent.decay.command.information.CompareCommand
+ me.affluent.decay.command.information.CompareCommand$1
+me/affluent/decay/achievements/DiamondHandsAchievement.java
+ me.affluent.decay.achievements.DiamondHandsAchievement
+me/affluent/decay/listener/BotInviteListener.java
+ me.affluent.decay.listener.BotInviteListener
+me/affluent/decay/util/OrbUtil.java
+ me.affluent.decay.util.OrbUtil
+me/affluent/decay/pets/Pet.java
+ me.affluent.decay.pets.Pet
+me/affluent/decay/armor/sets/CopperSet.java
+ me.affluent.decay.armor.sets.CopperSet
+me/affluent/decay/pets/MassPets/LegendAlphaPredator.java
+ me.affluent.decay.pets.MassPets.LegendAlphaPredator
+me/affluent/decay/weapon/Staff.java
+ me.affluent.decay.weapon.Staff
+me/affluent/decay/util/IronScrollsUtil.java
+ me.affluent.decay.util.IronScrollsUtil
+me/affluent/decay/armor/Boots.java
+ me.affluent.decay.armor.Boots
+me/affluent/decay/gems/Gem.java
+ me.affluent.decay.gems.Gem
+me/affluent/decay/enums/ArmorType.java
+ me.affluent.decay.enums.ArmorType
+me/affluent/decay/command/information/ProfileDragonCommand.java
+ me.affluent.decay.command.information.ProfileDragonCommand
+ me.affluent.decay.command.information.ProfileDragonCommand$1
+me/affluent/decay/command/admin/AdminCommand.java
+ me.affluent.decay.command.admin.AdminCommand
+me/affluent/decay/command/utility/BenefitsCommand.java
+ me.affluent.decay.command.utility.BenefitsCommand
+me/affluent/decay/util/GemUtil.java
+ me.affluent.decay.util.GemUtil
+me/affluent/decay/util/system/AlphabeticID.java
+ me.affluent.decay.util.system.AlphabeticID
+me/affluent/decay/command/shop/ElixirCommand.java
+ me.affluent.decay.command.shop.ElixirCommand
+me/affluent/decay/util/system/CooldownUtil.java
+ me.affluent.decay.util.system.CooldownUtil
+me/affluent/decay/enums/ItemType.java
+ me.affluent.decay.enums.ItemType
+me/affluent/decay/armor/witherset/WitherWitherSet.java
+ me.affluent.decay.armor.witherset.WitherWitherSet
+me/affluent/decay/weapon/wither/WitherWeapon.java
+ me.affluent.decay.weapon.wither.WitherWeapon
+me/affluent/decay/util/IronmanUtil.java
+ me.affluent.decay.util.IronmanUtil
+me/affluent/decay/command/information/AchievementsCommand.java
+ me.affluent.decay.command.information.AchievementsCommand
+me/affluent/decay/vote/VoteClient.java
+ me.affluent.decay.vote.VoteClient
+ me.affluent.decay.vote.VoteClient$1
+me/affluent/decay/enums/PetRarity.java
+ me.affluent.decay.enums.PetRarity
+ me.affluent.decay.enums.PetRarity$1
+me/affluent/decay/armor/wither/ArmorWitherSet.java
+ me.affluent.decay.armor.wither.ArmorWitherSet
+me/affluent/decay/command/utility/SettingsCommand.java
+ me.affluent.decay.command.utility.SettingsCommand
+me/affluent/decay/armor/Helmet.java
+ me.affluent.decay.armor.Helmet
+me/affluent/decay/specialevent/GamblerSpecialEvent.java
+ me.affluent.decay.specialevent.GamblerSpecialEvent
+me/affluent/decay/pets/Pets.java
+ me.affluent.decay.pets.Pets
+me/affluent/decay/command/actions/PracticeCommand.java
+ me.affluent.decay.command.actions.PracticeCommand
+me/affluent/decay/rarity/AncientRarity.java
+ me.affluent.decay.rarity.AncientRarity
+me/affluent/decay/event/AttackEvent.java
+ me.affluent.decay.event.AttackEvent
+me/affluent/decay/util/DragonScrollsUtil.java
+ me.affluent.decay.util.DragonScrollsUtil
+me/affluent/decay/armor/sets/DragonSteelSet.java
+ me.affluent.decay.armor.sets.DragonSteelSet
+me/affluent/decay/rank/KingQueen.java
+ me.affluent.decay.rank.KingQueen
+me/affluent/decay/armor/dragon/DragonGloves.java
+ me.affluent.decay.armor.dragon.DragonGloves
+me/affluent/decay/conquest/chapter/ChapterSeven.java
+ me.affluent.decay.conquest.chapter.ChapterSeven
+me/affluent/decay/achievements/ExpertTrainerAchievement.java
+ me.affluent.decay.achievements.ExpertTrainerAchievement
+me/affluent/decay/event/PetLevelUpEvent.java
+ me.affluent.decay.event.PetLevelUpEvent
+me/affluent/decay/util/TokensUtil.java
+ me.affluent.decay.util.TokensUtil
+me/affluent/decay/weapon/dragon/DragonShield.java
+ me.affluent.decay.weapon.dragon.DragonShield
+me/affluent/decay/achievements/AchievementData.java
+ me.affluent.decay.achievements.AchievementData
+me/affluent/decay/command/information/PingCommand.java
+ me.affluent.decay.command.information.PingCommand
+me/affluent/decay/entity/EcoUser.java
+ me.affluent.decay.entity.EcoUser
+me/affluent/decay/conquest/chapter/ChapterFour.java
+ me.affluent.decay.conquest.chapter.ChapterFour
+me/affluent/decay/manager/BanManager.java
+ me.affluent.decay.manager.BanManager
+me/affluent/decay/command/utility/PrefixCommand.java
+ me.affluent.decay.command.utility.PrefixCommand
+me/affluent/decay/armor/wither/WitherBoots.java
+ me.affluent.decay.armor.wither.WitherBoots
+me/affluent/decay/achievements/BlacksmithAchievement.java
+ me.affluent.decay.achievements.BlacksmithAchievement
+me/affluent/decay/command/actions/UnequipCommand.java
+ me.affluent.decay.command.actions.UnequipCommand
+me/affluent/decay/armor/sets/SteelSet.java
+ me.affluent.decay.armor.sets.SteelSet
+me/affluent/decay/command/information/PetInventoryCommand.java
+ me.affluent.decay.command.information.PetInventoryCommand
+me/affluent/decay/command/utility/TavernCommand.java
+ me.affluent.decay.command.utility.TavernCommand
+me/affluent/decay/armor/dragonset/DragonDragonSteelSet.java
+ me.affluent.decay.armor.dragonset.DragonDragonSteelSet
+me/affluent/decay/command/actions/ItemStarringCommand.java
+ me.affluent.decay.command.actions.ItemStarringCommand
+ me.affluent.decay.command.actions.ItemStarringCommand$1
+me/affluent/decay/util/GainUtil.java
+ me.affluent.decay.util.GainUtil
+me/affluent/decay/armor/iron/IronTrousers.java
+ me.affluent.decay.armor.iron.IronTrousers
+me/affluent/decay/util/HPBarUtil.java
+ me.affluent.decay.util.HPBarUtil
+me/affluent/decay/command/information/InviteCommand.java
+ me.affluent.decay.command.information.InviteCommand
+me/affluent/decay/conquest/Quest.java
+ me.affluent.decay.conquest.Quest
+me/affluent/decay/util/ItemStarringUtil.java
+ me.affluent.decay.util.ItemStarringUtil
+me/affluent/decay/entity/Player.java
+ me.affluent.decay.entity.Player
+me/affluent/decay/chest/Chest.java
+ me.affluent.decay.chest.Chest
+me/affluent/decay/command/actions/ForgeCommand.java
+ me.affluent.decay.command.actions.ForgeCommand
+ me.affluent.decay.command.actions.ForgeCommand$1
+me/affluent/decay/weapon/Weapon.java
+ me.affluent.decay.weapon.Weapon
+me/affluent/decay/rarity/RarityClass.java
+ me.affluent.decay.rarity.RarityClass
+me/affluent/decay/attribute/HealthAttribute.java
+ me.affluent.decay.attribute.HealthAttribute
+me/affluent/decay/rarity/RareRarity.java
+ me.affluent.decay.rarity.RareRarity
+me/affluent/decay/weapon/iron/IronWeapon.java
+ me.affluent.decay.weapon.iron.IronWeapon
+me/affluent/decay/pets/MassPets/UncommonMongolianHorse.java
+ me.affluent.decay.pets.MassPets.UncommonMongolianHorse
+me/affluent/decay/rarity/CommonRarity.java
+ me.affluent.decay.rarity.CommonRarity
+me/affluent/decay/rarity/MythicRarity.java
+ me.affluent.decay.rarity.MythicRarity
+me/affluent/decay/event/FightEndEvent.java
+ me.affluent.decay.event.FightEndEvent
+me/affluent/decay/command/information/RulesCommand.java
+ me.affluent.decay.command.information.RulesCommand
+me/affluent/decay/command/actions/HealCommand.java
+ me.affluent.decay.command.actions.HealCommand
+me/affluent/decay/util/DonatorUtil.java
+ me.affluent.decay.util.DonatorUtil
+me/affluent/decay/conquest/chapter/ChapterOne.java
+ me.affluent.decay.conquest.chapter.ChapterOne
+me/affluent/decay/patreon/PatreonSystem.java
+ me.affluent.decay.patreon.PatreonSystem
+me/affluent/decay/command/information/CooldownsCommand.java
+ me.affluent.decay.command.information.CooldownsCommand
+me/affluent/decay/util/DiminishingUtil.java
+ me.affluent.decay.util.DiminishingUtil
+ me.affluent.decay.util.DiminishingUtil$Diminish
+me/affluent/decay/armor/dragon/DragonBoots.java
+ me.affluent.decay.armor.dragon.DragonBoots
+me/affluent/decay/gems/GoldGainGem.java
+ me.affluent.decay.gems.GoldGainGem
+me/affluent/decay/util/MentionUtil.java
+ me.affluent.decay.util.MentionUtil
+me/affluent/decay/item/Item.java
+ me.affluent.decay.item.Item
+me/affluent/decay/util/DiamondsUtil.java
+ me.affluent.decay.util.DiamondsUtil
+me/affluent/decay/armor/wither/WitherTrousers.java
+ me.affluent.decay.armor.wither.WitherTrousers
+me/affluent/decay/weapon/Shield.java
+ me.affluent.decay.weapon.Shield
+me/affluent/decay/chest/rewards/ChestRewardTitanAlloy.java
+ me.affluent.decay.chest.rewards.ChestRewardTitanAlloy
+me/affluent/decay/command/shop/MerchantCommand.java
+ me.affluent.decay.command.shop.MerchantCommand
+me/affluent/decay/command/utility/CodeCommand.java
+ me.affluent.decay.command.utility.CodeCommand
+me/affluent/decay/patreon/PatreonServer.java
+ me.affluent.decay.patreon.PatreonServer
+me/affluent/decay/vote/VoteServer.java
+ me.affluent.decay.vote.VoteServer
+me/affluent/decay/entity/BadgeUser.java
+ me.affluent.decay.entity.BadgeUser
+me/affluent/decay/conquest/QuestWeapon.java
+ me.affluent.decay.conquest.QuestWeapon
+me/affluent/decay/command/utility/OpenCommand.java
+ me.affluent.decay.command.utility.OpenCommand
+me/affluent/decay/command/actions/MineCommand.java
+ me.affluent.decay.command.actions.MineCommand
+ me.affluent.decay.command.actions.MineCommand$1
+me/affluent/decay/armor/sets/StoneSet.java
+ me.affluent.decay.armor.sets.StoneSet
+me/affluent/decay/conquest/QuestFight.java
+ me.affluent.decay.conquest.QuestFight
+ me.affluent.decay.conquest.QuestFight$1
+me/affluent/decay/conquest/chapter/ChapterNine.java
+ me.affluent.decay.conquest.chapter.ChapterNine
+me/affluent/decay/specialevent/GoldenGamblerSpecialEvent.java
+ me.affluent.decay.specialevent.GoldenGamblerSpecialEvent
+me/affluent/decay/pets/PetItem.java
+ me.affluent.decay.pets.PetItem
+me/affluent/decay/chest/rewards/ChestRewardWood.java
+ me.affluent.decay.chest.rewards.ChestRewardWood
+me/affluent/decay/command/information/PetAttributesCommand.java
+ me.affluent.decay.command.information.PetAttributesCommand
+ me.affluent.decay.command.information.PetAttributesCommand$1
+me/affluent/decay/shop/ShopCategory.java
+ me.affluent.decay.shop.ShopCategory
+me/affluent/decay/command/actions/RandomCommand.java
+ me.affluent.decay.command.actions.RandomCommand
+me/affluent/decay/armor/Armor.java
+ me.affluent.decay.armor.Armor
+me/affluent/decay/util/A.java
+ me.affluent.decay.util.A
+me/affluent/decay/achievements/ExperienceAchievement.java
+ me.affluent.decay.achievements.ExperienceAchievement
+me/affluent/decay/util/ConfirmUtil.java
+ me.affluent.decay.util.ConfirmUtil
+me/affluent/decay/attribute/GoldCoinsAttribute.java
+ me.affluent.decay.attribute.GoldCoinsAttribute
+me/affluent/decay/event/ItemLevelUpEvent.java
+ me.affluent.decay.event.ItemLevelUpEvent
+me/affluent/decay/command/utility/TradeCommand.java
+ me.affluent.decay.command.utility.TradeCommand
+me/affluent/decay/weapon/iron/IronShield.java
+ me.affluent.decay.weapon.iron.IronShield
+me/affluent/decay/entity/otherInventory/ArmorIronUser.java
+ me.affluent.decay.entity.otherInventory.ArmorIronUser
+me/affluent/decay/armor/Gloves.java
+ me.affluent.decay.armor.Gloves
+me/affluent/decay/achievements/GearSummonerAchievement.java
+ me.affluent.decay.achievements.GearSummonerAchievement
+me/affluent/decay/armor/sets/WoodSet.java
+ me.affluent.decay.armor.sets.WoodSet
+me/affluent/decay/util/system/MessageUtil.java
+ me.affluent.decay.util.system.MessageUtil
+me/affluent/decay/command/actions/GemCommand.java
+ me.affluent.decay.command.actions.GemCommand
+me/affluent/decay/weapon/iron/IronSword.java
+ me.affluent.decay.weapon.iron.IronSword
+me/affluent/decay/chest/rewards/ChestRewardSteel.java
+ me.affluent.decay.chest.rewards.ChestRewardSteel
+me/affluent/decay/rank/Rank.java
+ me.affluent.decay.rank.Rank
+me/affluent/decay/util/ItemLevelingUtil.java
+ me.affluent.decay.util.ItemLevelingUtil
+me/affluent/decay/chest/rewards/ChestRewardTitanium.java
+ me.affluent.decay.chest.rewards.ChestRewardTitanium
+me/affluent/decay/language/Language.java
+ me.affluent.decay.language.Language
+me/affluent/decay/util/ElixirUtil.java
+ me.affluent.decay.util.ElixirUtil
+me/affluent/decay/command/quest/JournalEntryCommand.java
+ me.affluent.decay.command.quest.JournalEntryCommand
+me/affluent/decay/specialevent/ChestBreacherSpecialEvent.java
+ me.affluent.decay.specialevent.ChestBreacherSpecialEvent
+me/affluent/decay/command/actions/StartCommand.java
+ me.affluent.decay.command.actions.StartCommand
+me/affluent/decay/armor/dragon/DragonHelmet.java
+ me.affluent.decay.armor.dragon.DragonHelmet
+me/affluent/decay/armor/sets/WitherSet.java
+ me.affluent.decay.armor.sets.WitherSet
+me/affluent/decay/util/GoldenTokensUtil.java
+ me.affluent.decay.util.GoldenTokensUtil
+me/affluent/decay/event/LevelUpEvent.java
+ me.affluent.decay.event.LevelUpEvent
+me/affluent/decay/conquest/chapter/ChapterEight.java
+ me.affluent.decay.conquest.chapter.ChapterEight
+me/affluent/decay/skill/BerserkerSkill.java
+ me.affluent.decay.skill.BerserkerSkill
+me/affluent/decay/command/information/AttributesCommand.java
+ me.affluent.decay.command.information.AttributesCommand
+ me.affluent.decay.command.information.AttributesCommand$1
+me/affluent/decay/achievements/TrialByCombatAchievement.java
+ me.affluent.decay.achievements.TrialByCombatAchievement
+me/affluent/decay/armor/iron/IronHelmet.java
+ me.affluent.decay.armor.iron.IronHelmet
+me/affluent/decay/rank/DukeDuchess.java
+ me.affluent.decay.rank.DukeDuchess
+me/affluent/decay/achievements/Achievement.java
+ me.affluent.decay.achievements.Achievement
+me/affluent/decay/armor/sets/CarbonSteelSet.java
+ me.affluent.decay.armor.sets.CarbonSteelSet
+me/affluent/decay/weapon/Arrow.java
+ me.affluent.decay.weapon.Arrow
+me/affluent/decay/armor/dragon/ArmorDragonSet.java
+ me.affluent.decay.armor.dragon.ArmorDragonSet
+me/affluent/decay/gems/DamageGem.java
+ me.affluent.decay.gems.DamageGem
+me/affluent/decay/data/Power.java
+ me.affluent.decay.data.Power
+ me.affluent.decay.data.Power$1
+me/affluent/decay/event/GoldenTavernSpinEvent.java
+ me.affluent.decay.event.GoldenTavernSpinEvent
+me/affluent/decay/util/CommandEvent.java
+ me.affluent.decay.util.CommandEvent
+me/affluent/decay/enums/Rarity.java
+ me.affluent.decay.enums.Rarity
+ me.affluent.decay.enums.Rarity$1
+me/affluent/decay/captcha/CaptchaAPI.java
+ me.affluent.decay.captcha.CaptchaAPI
+ me.affluent.decay.captcha.CaptchaAPI$CaptchaData
+me/affluent/decay/util/QuestUtil.java
+ me.affluent.decay.util.QuestUtil
+me/affluent/decay/util/system/EmoteUtil.java
+ me.affluent.decay.util.system.EmoteUtil
+me/affluent/decay/chest/rewards/ChestRewardDragonSteel.java
+ me.affluent.decay.chest.rewards.ChestRewardDragonSteel
+me/affluent/decay/specialevent/GoldenHandSpecialEvent.java
+ me.affluent.decay.specialevent.GoldenHandSpecialEvent
+me/affluent/decay/specialevent/DungeonSpecialEvent.java
+ me.affluent.decay.specialevent.DungeonSpecialEvent
+me/affluent/decay/pvp/Fight.java
+ me.affluent.decay.pvp.Fight
+ me.affluent.decay.pvp.Fight$1
+me/affluent/decay/armor/dragon/DragonTrousers.java
+ me.affluent.decay.armor.dragon.DragonTrousers
+me/affluent/decay/superclass/Descriptable.java
+ me.affluent.decay.superclass.Descriptable
+me/affluent/decay/Withering.java
+ me.affluent.decay.Withering
+ me.affluent.decay.Withering$1
+ me.affluent.decay.Withering$1$1
+me/affluent/decay/rank/EarlCountess.java
+ me.affluent.decay.rank.EarlCountess
+me/affluent/decay/util/IngotUtil.java
+ me.affluent.decay.util.IngotUtil
+ me.affluent.decay.util.IngotUtil$1
+me/affluent/decay/rarity/Rarities.java
+ me.affluent.decay.rarity.Rarities
+me/affluent/decay/shop/PriceItems.java
+ me.affluent.decay.shop.PriceItems
+me/affluent/decay/weapon/wither/WitherSword.java
+ me.affluent.decay.weapon.wither.WitherSword
+me/affluent/decay/command/utility/DailyCommand.java
+ me.affluent.decay.command.utility.DailyCommand
+me/affluent/decay/util/KeysUtil.java
+ me.affluent.decay.util.KeysUtil
+me/affluent/decay/command/actions/ArenaCommand.java
+ me.affluent.decay.command.actions.ArenaCommand
+me/affluent/decay/util/ScrollsUtil.java
+ me.affluent.decay.util.ScrollsUtil
+me/affluent/decay/armor/sets/TitaniumSet.java
+ me.affluent.decay.armor.sets.TitaniumSet
+me/affluent/decay/entity/InventoryUser.java
+ me.affluent.decay.entity.InventoryUser
+me/affluent/decay/event/Event.java
+ me.affluent.decay.event.Event
+me/affluent/decay/api/XPApi.java
+ me.affluent.decay.api.XPApi
+me/affluent/decay/util/PetStarringUtil.java
+ me.affluent.decay.util.PetStarringUtil
+me/affluent/decay/skill/JuggernautSkill.java
+ me.affluent.decay.skill.JuggernautSkill
+me/affluent/decay/command/actions/ItemLevelingCommand.java
+ me.affluent.decay.command.actions.ItemLevelingCommand
+ me.affluent.decay.command.actions.ItemLevelingCommand$1
+me/affluent/decay/util/system/RandomUtil.java
+ me.affluent.decay.util.system.RandomUtil
+me/affluent/decay/armor/iron/IronGloves.java
+ me.affluent.decay.armor.iron.IronGloves
+me/affluent/decay/command/admin/DevCommand.java
+ me.affluent.decay.command.admin.DevCommand
+me/affluent/decay/util/system/FormatUtil.java
+ me.affluent.decay.util.system.FormatUtil
+me/affluent/decay/command/information/HelpCommand.java
+ me.affluent.decay.command.information.HelpCommand
+me/affluent/decay/util/system/DailyRewardSystem.java
+ me.affluent.decay.util.system.DailyRewardSystem
+ me.affluent.decay.util.system.DailyRewardSystem$DailyReward
+me/affluent/decay/command/information/ProfileIronCommand.java
+ me.affluent.decay.command.information.ProfileIronCommand
+ me.affluent.decay.command.information.ProfileIronCommand$1
+me/affluent/decay/command/information/VoteCommand.java
+ me.affluent.decay.command.information.VoteCommand
+me/affluent/decay/command/actions/ScrollCommand.java
+ me.affluent.decay.command.actions.ScrollCommand
+me/affluent/decay/rarity/UncommonRarity.java
+ me.affluent.decay.rarity.UncommonRarity
+me/affluent/decay/util/BoostUtil.java
+ me.affluent.decay.util.BoostUtil
+ me.affluent.decay.util.BoostUtil$Boost
+me/affluent/decay/database/Database.java
+ me.affluent.decay.database.Database
+me/affluent/decay/armor/ArmorSet.java
+ me.affluent.decay.armor.ArmorSet
+me/affluent/decay/armor/sets/TitanAlloySet.java
+ me.affluent.decay.armor.sets.TitanAlloySet
+me/affluent/decay/conquest/chapter/ChapterSix.java
+ me.affluent.decay.conquest.chapter.ChapterSix
+me/affluent/decay/command/other/GiveAllCommand.java
+ me.affluent.decay.command.other.GiveAllCommand
+me/affluent/decay/specialevent/JewlerSpecialEvent.java
+ me.affluent.decay.specialevent.JewlerSpecialEvent
+me/affluent/decay/vote/VoteSystem.java
+ me.affluent.decay.vote.VoteSystem
+ me.affluent.decay.vote.VoteSystem$1
+ me.affluent.decay.vote.VoteSystem$2
+me/affluent/decay/pets/PetSet.java
+ me.affluent.decay.pets.PetSet
+me/affluent/decay/command/quest/ConquestCommand.java
+ me.affluent.decay.command.quest.ConquestCommand
+me/affluent/decay/weapon/Bow.java
+ me.affluent.decay.weapon.Bow
+me/affluent/decay/conquest/chapter/ChapterTwo.java
+ me.affluent.decay.conquest.chapter.ChapterTwo
+me/affluent/decay/rank/SquireEsquire.java
+ me.affluent.decay.rank.SquireEsquire
+me/affluent/decay/armor/ironset/IronIronSet.java
+ me.affluent.decay.armor.ironset.IronIronSet
+me/affluent/decay/attribute/ExpAttribute.java
+ me.affluent.decay.attribute.ExpAttribute
+me/affluent/decay/command/utility/GoldenTavernCommand.java
+ me.affluent.decay.command.utility.GoldenTavernCommand
+me/affluent/decay/conquest/chapter/ChapterEleven.java
+ me.affluent.decay.conquest.chapter.ChapterEleven
+me/affluent/decay/armor/wither/WitherHelmet.java
+ me.affluent.decay.armor.wither.WitherHelmet
+me/affluent/decay/util/SkillUtil.java
+ me.affluent.decay.util.SkillUtil
+me/affluent/decay/api/PetXPApi.java
+ me.affluent.decay.api.PetXPApi
+me/affluent/decay/armor/Chestplate.java
+ me.affluent.decay.armor.Chestplate
+me/affluent/decay/entity/ExpUser.java
+ me.affluent.decay.entity.ExpUser
+me/affluent/decay/conquest/chapter/ChapterThree.java
+ me.affluent.decay.conquest.chapter.ChapterThree
+me/affluent/decay/superclass/BotCommand.java
+ me.affluent.decay.superclass.BotCommand
+me/affluent/decay/rarity/JunkRarity.java
+ me.affluent.decay.rarity.JunkRarity
+me/affluent/decay/command/information/KeysCommand.java
+ me.affluent.decay.command.information.KeysCommand
+me/affluent/decay/conquest/chapter/ChapterTen.java
+ me.affluent.decay.conquest.chapter.ChapterTen
+me/affluent/decay/pvp/AttackRate.java
+ me.affluent.decay.pvp.AttackRate
+me/affluent/decay/gems/ExperienceGem.java
+ me.affluent.decay.gems.ExperienceGem
+me/affluent/decay/command/actions/DeleteCommand.java
+ me.affluent.decay.command.actions.DeleteCommand
+me/affluent/decay/conquest/chapter/ChapterTwelve.java
+ me.affluent.decay.conquest.chapter.ChapterTwelve
+me/affluent/decay/rarity/EpicRarity.java
+ me.affluent.decay.rarity.EpicRarity
+me/affluent/decay/util/system/DonatorRewardSystem.java
+ me.affluent.decay.util.system.DonatorRewardSystem
+ me.affluent.decay.util.system.DonatorRewardSystem$DonatorReward
+me/affluent/decay/listener/EventListener.java
+ me.affluent.decay.listener.EventListener
+me/affluent/decay/skill/StealthSkill.java
+ me.affluent.decay.skill.StealthSkill
+me/affluent/decay/gems/UserGem.java
+ me.affluent.decay.gems.UserGem
+me/affluent/decay/rarity/LegendRarity.java
+ me.affluent.decay.rarity.LegendRarity
+me/affluent/decay/skill/AssassinSkill.java
+ me.affluent.decay.skill.AssassinSkill
+me/affluent/decay/conquest/chapter/ChapterFive.java
+ me.affluent.decay.conquest.chapter.ChapterFive
+me/affluent/decay/attribute/Attribute.java
+ me.affluent.decay.attribute.Attribute
+ me.affluent.decay.attribute.Attribute$AttributeData
+me/affluent/decay/rarity/ArtifactRarity.java
+ me.affluent.decay.rarity.ArtifactRarity
+me/affluent/decay/weapon/Sword.java
+ me.affluent.decay.weapon.Sword
+me/affluent/decay/pets/MassPets/RareBettaFish.java
+ me.affluent.decay.pets.MassPets.RareBettaFish
+me/affluent/decay/util/IgnoreAchievementUtil.java
+ me.affluent.decay.util.IgnoreAchievementUtil
+me/affluent/decay/command/information/EventCommand.java
+ me.affluent.decay.command.information.EventCommand
+me/affluent/decay/enums/Gender.java
+ me.affluent.decay.enums.Gender
+me/affluent/decay/command/information/StatsCommand.java
+ me.affluent.decay.command.information.StatsCommand
+me/affluent/decay/util/PetUtil.java
+ me.affluent.decay.util.PetUtil
+me/affluent/decay/weapon/dragon/DragonWeapon.java
+ me.affluent.decay.weapon.dragon.DragonWeapon
+me/affluent/decay/util/HPBarMUtil.java
+ me.affluent.decay.util.HPBarMUtil
+me/affluent/decay/armor/iron/IronChestplate.java
+ me.affluent.decay.armor.iron.IronChestplate
+me/affluent/decay/chest/rewards/ChestRewardMetal.java
+ me.affluent.decay.chest.rewards.ChestRewardMetal
+me/affluent/decay/util/ResponseUtil.java
+ me.affluent.decay.util.ResponseUtil
+me/affluent/decay/rank/EmperorEmpress.java
+ me.affluent.decay.rank.EmperorEmpress
+me/affluent/decay/rank/KnightDame.java
+ me.affluent.decay.rank.KnightDame
+me/affluent/decay/gems/DodgeChanceGem.java
+ me.affluent.decay.gems.DodgeChanceGem
+me/affluent/decay/entity/ArmorUser.java
+ me.affluent.decay.entity.ArmorUser
+me/affluent/decay/weapon/dragon/DragonSword.java
+ me.affluent.decay.weapon.dragon.DragonSword
+me/affluent/decay/pets/MassPets/JunkMongolianHorse.java
+ me.affluent.decay.pets.MassPets.JunkMongolianHorse
+me/affluent/decay/armor/sets/IronSet.java
+ me.affluent.decay.armor.sets.IronSet
+me/affluent/decay/captcha/Captcha.java
+ me.affluent.decay.captcha.Captcha
+me/affluent/decay/armor/wither/WitherChestplate.java
+ me.affluent.decay.armor.wither.WitherChestplate
+me/affluent/decay/util/ShopUtil.java
+ me.affluent.decay.util.ShopUtil
+me/affluent/decay/achievements/PetExpertiseAchievement.java
+ me.affluent.decay.achievements.PetExpertiseAchievement
+me/affluent/decay/rank/BaronBaroness.java
+ me.affluent.decay.rank.BaronBaroness
+me/affluent/decay/command/information/ProfileWitherCommand.java
+ me.affluent.decay.command.information.ProfileWitherCommand
+ me.affluent.decay.command.information.ProfileWitherCommand$1
+me/affluent/decay/conquest/QuestArmor.java
+ me.affluent.decay.conquest.QuestArmor
+me/affluent/decay/patreon/PatreonClient.java
+ me.affluent.decay.patreon.PatreonClient
+ me.affluent.decay.patreon.PatreonClient$1
+me/affluent/decay/attribute/DodgeAttribute.java
+ me.affluent.decay.attribute.DodgeAttribute
+me/affluent/decay/skill/Skill.java
+ me.affluent.decay.skill.Skill
+me/affluent/decay/specialevent/StrikerSpecialEvent.java
+ me.affluent.decay.specialevent.StrikerSpecialEvent
+me/affluent/decay/command/other/VerifyCommand.java
+ me.affluent.decay.command.other.VerifyCommand
+me/affluent/decay/command/information/InfoCommand.java
+ me.affluent.decay.command.information.InfoCommand
+me/affluent/decay/Constants.java
+ me.affluent.decay.Constants
+me/affluent/decay/weapon/wither/WitherShield.java
+ me.affluent.decay.weapon.wither.WitherShield
+me/affluent/decay/attribute/ProtectionAttribute.java
+ me.affluent.decay.attribute.ProtectionAttribute
+me/affluent/decay/event/ConquestWinEvent.java
+ me.affluent.decay.event.ConquestWinEvent
+me/affluent/decay/superclass/CommandHandler.java
+ me.affluent.decay.superclass.CommandHandler
+ me.affluent.decay.superclass.CommandHandler$1
+me/affluent/decay/command/actions/EquipCommand.java
+ me.affluent.decay.command.actions.EquipCommand
+me/affluent/decay/armor/wither/WitherGloves.java
+ me.affluent.decay.armor.wither.WitherGloves
+me/affluent/decay/armor/dragon/DragonChestplate.java
+ me.affluent.decay.armor.dragon.DragonChestplate
+me/affluent/decay/Bot.java
+ me.affluent.decay.Bot
+ me.affluent.decay.Bot$1
+me/affluent/decay/listener/FeedbackListener.java
+ me.affluent.decay.listener.FeedbackListener
+me/affluent/decay/rank/PrincePrincess.java
+ me.affluent.decay.rank.PrincePrincess
+me/affluent/decay/shop/PriceMoney.java
+ me.affluent.decay.shop.PriceMoney
+me/affluent/decay/shop/ShopItem.java
+ me.affluent.decay.shop.ShopItem
+me/affluent/decay/command/information/TutorialCommand.java
+ me.affluent.decay.command.information.TutorialCommand
+me/affluent/decay/util/system/StatsUtil.java
+ me.affluent.decay.util.system.StatsUtil
+me/affluent/decay/patreon/PatreonPledger.java
+ me.affluent.decay.patreon.PatreonPledger
+me/affluent/decay/armor/Trousers.java
+ me.affluent.decay.armor.Trousers
+me/affluent/decay/armor/iron/IronBoots.java
+ me.affluent.decay.armor.iron.IronBoots
+me/affluent/decay/pets/MassPets/CommonMongolianHorse.java
+ me.affluent.decay.pets.MassPets.CommonMongolianHorse
+me/affluent/decay/conquest/chapter/Chapter.java
+ me.affluent.decay.conquest.chapter.Chapter
+ me.affluent.decay.conquest.chapter.Chapter$1
+me/affluent/decay/entity/HealthUser.java
+ me.affluent.decay.entity.HealthUser
