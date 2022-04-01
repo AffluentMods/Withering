@@ -30,7 +30,7 @@ public class Bot extends ListenerAdapter {
         this.token =
                 test ? "ODg3ODUwNjU1ODYyMTEyMjY4.YUKJWw.hO38lY_s2PoBqq8s96fbW0GVyiU" : "ODg3ODUwNjU1ODYyMTEyMjY4" +
                         ".YUKJWw" +
-                        ".hO38lY_s2PoBqq8s96fbW0GVyiU";
+                        ".hO38lY_s2PoBqq8s96fbW0GVyiU";  //Outdated token, be sure to change this.
         this.shards = test ? 1 : 2;
     }
 
